@@ -1,0 +1,7 @@
+example.example:
+  path: '/solution2/{tags}'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\example\Controller\ExampleController::build'
+  requirements:
+    _permission: 'access content'

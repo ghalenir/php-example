@@ -1,0 +1,53 @@
+[
+	{
+		"type": "article",
+		"name": "Building Wealth Through Planning",
+		"body": "....",
+		"tags": [
+			"insurance",
+			"planning",
+			"under-40",
+			"build-wealth",
+			"301",
+			"married"
+		],
+		"popularity": 0.7
+	},
+	{
+		"type": "article",
+		"name": "Which Financial Product is right for you?",
+		"body": "....",
+		"tags": [
+			"insurance",
+			"planning",
+			"under-40",
+			"build-wealth",
+			"301",
+			"married"
+		],
+		"popularity": 0.3
+	},
+	{
+		"type": "video",
+		"name": "What an advisor can do for you",
+		"body": "....",
+		"tags": [
+			"planning",
+			"build-wealth",
+			"501",
+			"married",
+			"65+"
+		],
+		"popularity": 0.2
+	},
+	{
+		"type": "quiz",
+		"name": "Which Whole Life Insurance is best for you?",
+		"body": "....",
+		"tags": [
+			"insurance",
+			"101"
+		],
+		"popularity": 0.9
+	}
+]

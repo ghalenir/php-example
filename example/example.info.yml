@@ -1,0 +1,6 @@
+name: Drupal Controller Solution 2
+type: module
+description: Drupal Controller Solution 2
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
